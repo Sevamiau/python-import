@@ -26,7 +26,4 @@ new_qmp_obj = qmp_command(**qmp_dict)
 
 
 
-
-
-
 print_qmp(new_qmp_obj) #print qmp_dict de vuelta a qmp_command obj
